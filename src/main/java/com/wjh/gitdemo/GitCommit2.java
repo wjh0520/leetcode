@@ -7,5 +7,6 @@ public class GitCommit2 {
         System.out.println("host-fix444444444444");
         System.out.println("master test 55555555");
         System.out.println("host-fix  test");
+        System.out.println("push  test");
     }
 }
